@@ -11,3 +11,19 @@ index 975e13a..6988c8d 100644
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
  
  You must receive some image as in demo branch
+
+https://github.com/funkyMonks1338/network-repo-in-env/commits/master
+11 коммитов всего
+Первые 6 от MobDev-Hobby, последние 5 от funkyMonks1338
+Комментарии к ним от самого нового к самому старому:
+Объяснение отличий получившейся ветки master от удалённой ветки demo в файле hometask.txt
+Merging with boots_buttons
+Merging with hat
+Merging with buttons
+Merging with boots
+fix readme
+dots
+README added
+boots
+heat added
+init
